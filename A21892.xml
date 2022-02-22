@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes most excellent Maiestie being certainly informed of diuers great spoiles made of the goods lade[n] in a Spanish carraque lately brought to Dertmouth in Deuonshire  ...</title>
+            <title>Proclamations. 1592-09-23</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21892</idno>
+            <idno type="STC">STC 8222</idno>
+            <idno type="STC">ESTC S115473</idno>
+            <idno type="EEBO-CITATION">99850692</idno>
+            <idno type="PROQUEST">99850692</idno>
+            <idno type="VID">15916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:81)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes most excellent Maiestie being certainly informed of diuers great spoiles made of the goods lade[n] in a Spanish carraque lately brought to Dertmouth in Deuonshire  ...</title>
+                  <title>Proclamations. 1592-09-23</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ordered surrender of goods smuggled out of a Spanish prize.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smuggling --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15916:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie being certainly informed of diuers great ſpo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es made of the goods lade<g ref="char:cmbAbbrStroke">̄</g> in a Spaniſh Carraque lately brought to P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt<g ref="char:EOLhyphen"/>mouth in Deuonſhire, &amp; the ſame conueied ſecretly on land to certaine parts of the Realme, as well in Deuonſhire, as to the Citie of London, &amp; other Portes and Creekes, and there diſperſed and vnlawfully bought by ſundry Merchants and Brokers, to the maniſeft breach of her Maieſties lawes, &amp; to the robbing of her Maieſtie of her roiall Cuſtomes and Subſidies: hath thought it moſt ne<g ref="char:EOLhyphen"/>ceſſarie to cauſe reformation hereof to be made with ſpeed, and the offenders to vnderſtand what puniſhment is due to them, if they ſhall not ſpeedilie diſcouer and reſtore the ſaid goods. And therefore her Maieſtie ſtraightly chargeth &amp; commandeth all maner of perſons that haue taken out or receiued any maner of goods of any value out of the ſaid Carraque, either while ſhe was on the Seas, or ſince her comming into the hauen of Dertmouth, though the ſame bene taken in the name of pillage, (which was not lawfull to be done by the lawes of the Realme, and the lawes of the Sea, vn<g ref="char:EOLhyphen"/>til the whole lading were brough into the Port) that they doe within ten dayes after this Proclamation pub<g ref="char:EOLhyphen"/>liſhed in any City, Port, Towne or Countie, diſcouer and make knowen to they principall Officer of the place where they ſhall reſide, and diliuer the ſame to the ſaid Officer to be certified to her Maieſtice orher Counſell, or to ſhew where, and to whom they haue ſold, giuen, or deliuered the ſame. And in ſuch caſe her Maieſtie chargeth all Merchants, Goldſmiths, Iewellers, Seamen, and all other perſons that haue bought or receiued any of the ſaid goods in like ſort, within the ſaid time, to diſcouer &amp; deliuer the ſame, &amp; to declare of whom, and by what means they haue receiued the ſame without any reſpect of any mony paied, or bonds giuen for paiment there<g ref="char:EOLhyphen"/>of. And like wiſe her Maieſtie chargeth all In-keepers or other Houſholders, or Owners of any veſſels vpon the Sea, where any perſon ſhal come with any cariage, wherein there may be ſuſpicion, that any portion of the commodities taken in the ſaid Carraque ſhalbe beſtowed, that the ſame Houſholder or Maſter of any veſſel, ſhal forth with giue notice to the next publique Officer thereof, to cauſe the ſame to be ſtaied and certiſied to any per<g ref="char:EOLhyphen"/>ſon appointed as a Commiſſioner about the charge of the ſaid Carraque, or to any of the priuie Counſel. And all theſe her Maieſties ſeuerall commandements ſhe willeth to be obſerued vpon paine of impriſonment without batle of the offender, and further pimiſdment againſt ſuch ſo haue robbed the ſaid Carraque, and their abbet<g ref="char:EOLhyphen"/>ters and acceſſaries, as in caſes of Felonies. And furthermore her Maieſtie willeth it to be knowen to all per<g ref="char:EOLhyphen"/>ſons, who by reaſon of their Conſort of Aduenture in this late ſeruice wherein the Carraque was taken, ſhall claime any portion out of y<hi rend="sup">e</hi> goods of the ſaid Carraque, that if it may be proued y<hi rend="sup">t</hi> they haue taken or bought any thing out of the ſaid Carraque before the bringing &amp; the view of her by her Maieſties Commiſſioners at Dert<g ref="char:EOLhyphen"/>mouth, without reuealing the ſame to her Maieſtie or to her Commiſſioners, they are by the law to loſe all the benefit that they might claime for their aduenture. And to y<hi rend="sup">e</hi> intent that no Mariner or Soldier, or other that haue aduentured the<g ref="char:cmbAbbrStroke">̄</g>ſelues about taking of the ſame Carraque ſhould be diſcouraged in withdrawing fro<g ref="char:cmbAbbrStroke">̄</g> him that which lawfully is to be accounted pillage, her Maieſtie mindeth vpo<g ref="char:cmbAbbrStroke">̄</g> firſt diſcouering to her Commiſ<g ref="char:EOLhyphen"/>ſioners of that which any hath taken by name of pillage, the ſame ſhalbe conſidered how farre forth it is to bee indged pillage, &amp; thereof ſhal haue allo wance beſides their due wages, with all lawful fauour: but without the diſcouerie thereof to the Officers of the Port where they doe firſt arriue, they neither ought to enioy any thing by name of pillage, nor yet to haue allo wance of wages, or thirds, or ſuch like, but by the lawes of the Sea are puniſhable for concealing of euery thing ſo taken. And as her Maieſtie hath thought meet at this time to pub<g ref="char:EOLhyphen"/>liſh theſe her commandements, eſpecially vpon y<hi rend="sup">e</hi> notorious ſpoiles preſently made out of this Carraque, ſo doth ſhe command the like prohibitions &amp; commandements to be obſerued, vpon like paines for all maner of ſpoiles committed vpon any other priſes taken on the Stas this Sommer paſt, &amp; for time to come doth alſo command the ſame to be obſerued in the taking of any ſhip of any ſhip of any Enemie as a priſe, to forbeare from all ſpoiles, and not to take any thing out of any priſe, vntill the ſame be brought, viewed, and ſearched by the Officers of the Portes, whereby her Maieſtie may haue her due Cuſtoms, and other perſons their duties, and the takers of the priſes their portions due to them.</p>
+            <closer>
+               <dateline>Giuen at the Citie of Oxenford <date>the 23. day of September 1592. in the 34. yeere of her Maieſties raigne.</date>
+               </dateline>
+               <lb/>
+Godſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie. 1591.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
